@@ -118,7 +118,4 @@ console.log("%c Datos Actualizados Paciente.",outputColor)
 console.log("Paciente 1 Nuevo Nombre      :" + paciente1._getNombre); 
 console.log("Paciente 1 Nuevo Edad        :" + paciente1._getEdad); 
 console.log("Paciente 1 Nuevo Rut         :" + paciente1._getRut); 
-console.log("Paciente 1 Nuevo Diagnostico :" + paciente1._getDiagnostico); 
-
-
-
+console.log("Paciente 1 Nuevo Diagnostico :" + paciente1._getDiagnostico);
